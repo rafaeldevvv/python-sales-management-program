@@ -6,4 +6,4 @@ It has features to draw a chart and to add, delete and update products.
 
 Here is a video of it working:
 
-![](./video.mp4)
+![](./python-sales.mp4)
