@@ -1,4 +1,0 @@
-coffee,10
-ice cream,15
-chicken,40
-soda,30
